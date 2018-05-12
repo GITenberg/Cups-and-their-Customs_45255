@@ -1,0 +1,32 @@
+_repo: Cups-and-their-Customs_45255
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45255-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Porter, Henry, M. D.
+    gutenberg_agent_id: '43178'
+    url: http://www.gutenberg.org/2009/agents/43178
+  - agent_name: Roberts, George Edwin
+    birthdate: 1831
+    deathdate: 1865
+    gutenberg_agent_id: '43177'
+    url: http://www.gutenberg.org/2009/agents/43177
+description: ''
+gutenberg_issued: '2014-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Liquors'
+- !lcsh 'Cocktails'
+- !lcsh 'Drinking customs'
+- !lcc 'TX'
+- !lcsh 'Drinking cups'
+title: Cups and Their Customs
+url: http://www.gutenberg.org/ebooks/45255
